@@ -9,7 +9,7 @@ https://www.pnas.org/doi/abs/10.1073/pnas.2221175120?url_ver=Z39.88-2003&rfr_id=
 
 Экспрессируются во многих тканях человека - больше всего в thyroid, ovary.
 
-Обладает сложной доменной структурой: Bromo_polybromo_I - Bromo_polybromo_VI, HMG-box, BAH_polybromo
+Доменной структура: Bromo_polybromo_I - Bromo_polybromo_VI, HMG-box, BAH_polybromo
 
 
 
