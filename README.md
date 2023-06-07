@@ -1,4 +1,19 @@
 # project_bioinf
+Я выбрал белок PBRM1
+
+Про его связь с белком нашей команды описано в статье: 
+https://www.pnas.org/doi/abs/10.1073/pnas.2221175120?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed
+цитата из Абстракта, кратко описывающая связь: "глиомы H3K27M демонстрируют повышенные уровни белка атфазных субъединиц комплекса SWI/SNF SMARCA4 и SMARCA2, а также компонента PBAF PBRM1."
+
+Входит в chromatin-remodeling complex.
+
+Экспрессируются во многих тканях человека - больше всего в thyroid, ovary.
+
+Обладает сложной доменной структурой: Bromo_polybromo_I - Bromo_polybromo_VI, HMG-box, BAH_polybromo
+
+
+
+
 
 (неподписанный белок - это мой PBRM1)
 
